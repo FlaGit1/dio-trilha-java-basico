@@ -1,4 +1,4 @@
-package FluxoSimples.FluxoComposto;
+package FluxoComposto;
 
 public class CaixaEletronico2 {
     public static void main(String[] args) {
