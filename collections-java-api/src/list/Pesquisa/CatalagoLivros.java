@@ -56,8 +56,8 @@ public class CatalagoLivros {
 
     public static void main(String[] args) {
         CatalagoLivros catalagoLivros = new CatalagoLivros();
-        catalagoLivros.adicionarLivro("Livro 1", "Autor 1", 2021);
-        catalagoLivros.adicionarLivro("Livro 1", "Autor 2", 2020);
+        catalagoLivros.adicionarLivro("Livro 1", "Autor 1", 2020);
+        catalagoLivros.adicionarLivro("Livro 1", "Autor 2", 2021);
         catalagoLivros.adicionarLivro("Livro 2", "Autor 2", 2022);
         catalagoLivros.adicionarLivro("Livro 3", "Autor 3", 2023);
         catalagoLivros.adicionarLivro("Livro 4", "Autor 4", 1994);
