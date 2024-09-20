@@ -1,7 +1,10 @@
-package Desafio2;
+package Desafios.Desafio2;
 
 import java.util.Arrays;
 import java.util.List;
+
+/* Neste código, a lista numeros é convertida em uma stream, os números pares são filtrados com o método filter(), 
+convertidos para int com mapToInt(), e somados com o método sum(). */
 
 public class SomaNumerosPares {
     public static void main(String[] args) {

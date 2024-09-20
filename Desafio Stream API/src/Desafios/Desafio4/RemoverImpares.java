@@ -1,4 +1,4 @@
-package Desafio4;
+package Desafios.Desafio4;
 
 import java.util.Arrays;
 import java.util.List;

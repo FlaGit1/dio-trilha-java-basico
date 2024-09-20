@@ -1,7 +1,10 @@
-package Desafio1;
+package Desafios.Desafio1;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
+
+/* Neste código, a lista numeros é convertida em uma stream, ordenada com o método sorted(), 
+e depois coletada de volta em uma lista com collect(Collectors.toList()). */
 
 public class OrdenarLista {
    public static void main(String[] args) {

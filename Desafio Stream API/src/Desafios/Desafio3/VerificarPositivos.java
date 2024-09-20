@@ -1,7 +1,10 @@
-package Desafio3;
+package Desafios.Desafio3;
 
 import java.util.Arrays;
 import java.util.List;
+
+/* Neste código, a lista numeros é convertida em uma stream, e o método allMatch() é usado para verificar se todos 
+os números são maiores que zero. */
 
 public class VerificarPositivos {
     public static void main(String[] args) {
